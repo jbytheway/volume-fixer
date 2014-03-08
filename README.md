@@ -19,7 +19,7 @@ if you actually do want to alter the volume.
 Requires the PulseAudio development headers to compile.  On Debian these can be
 found in the libpulse-dev package.
 
-Copyright (C) 2014  John Bytheway <jbytheway at that gmail place>
+Copyright (C) 2014  John Bytheway (jbytheway at that gmail place)
 
 
 LICENSE
